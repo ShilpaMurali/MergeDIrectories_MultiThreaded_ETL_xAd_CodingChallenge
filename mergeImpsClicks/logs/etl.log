@@ -1,0 +1,108 @@
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:
+
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:
+
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.002828
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.003003
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:
+
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:
+
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.004576
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.004708
+DEBUG:root:
+
+DEBUG:root:
+
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.007768
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.007990
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.003506
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.004173
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.002865
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.000744
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.002665
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.003816
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.002538
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.003044
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.003890
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.004323
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.007620
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.007221
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.072100
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.076103
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.024034
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.016024
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.004009
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.004001
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.004003
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.012016
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.003949
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.015972
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-06.csv ETL Start
+DEBUG:root:2016-05-15-05.csv ETL Start
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:2016-05-15-05.csv ETL complete, elapsed time 0.002251
+DEBUG:root:2016-05-15-06.csv ETL complete, elapsed time 0.002740
+DEBUG:root:%s ETL Queue empty. No more data to process
+DEBUG:root:%s ETL Queue empty. No more data to process
